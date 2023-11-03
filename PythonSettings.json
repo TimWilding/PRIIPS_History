@@ -1,0 +1,6 @@
+{
+  "TestFramework": "unittest",
+  "UnitTestRootDirectory": "Testing",
+  "UnitTestPattern": "test_*.py",
+  "SearchPaths": [ ".\\PRIIPS_calc" ]
+}
